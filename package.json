@@ -1,0 +1,21 @@
+{
+  "name": "youtube-tutorials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ugxfy1809/youtube-tutorials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ugxfy1809/youtube-tutorials/issues"
+  },
+  "homepage": "https://github.com/ugxfy1809/youtube-tutorials#readme"
+}
